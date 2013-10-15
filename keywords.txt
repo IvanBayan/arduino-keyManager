@@ -1,0 +1,7 @@
+keyManager      KEYWORD1
+process         KEYWORD2
+isEvent         KEYWORD2
+isPressed       KEYWORD2
+isLongPressed   KEYWORD2
+clearEvent      KEYWORD2
+isReleased      KEYWORD2       
